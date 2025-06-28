@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Illustrator-2c3e50?style=flat&logo=Illustrator&labelColor=34495e"/>
 </p>
 
-<p>
+<div style="display: flex; gap: 4px;">
   <img src="https://img.shields.io/badge/-Typescript-2c3e50?style=flat&logo=Typescript&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-JavaScript-2c3e50?style=flat&logo=Javascript&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-React-2c3e50?style=flat&logo=React&labelColor=34495e"/>
@@ -47,7 +47,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-React Native-2c3e50?style=flat&logo=React&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Expo-2c3e50?style=flat&logo=Expo&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Swift-2c3e50?style=flat&logo=Swift&labelColor=34495e"/>
-  
   <img src="https://img.shields.io/badge/-Stripe-2c3e50?style=flat&logo=Stripe&labelColor=34495e"/>
 </p>
 <p>
