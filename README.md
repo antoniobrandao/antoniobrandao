@@ -18,15 +18,6 @@ Here are some ideas to get you started:
 [https://antoniobrandao.com](https://antoniobrandao.com)
 
 <p>
-  <img src="https://img.shields.io/badge/UI-Design-8A2BE2"/>
-  <img src="https://img.shields.io/badge/Product-Design-8A2BE2"/>
-  <img src="https://img.shields.io/badge/UX-8A2BE2"/>
-  <img src="https://img.shields.io/badge/Frontend-8A2BE2"/>
-  <img src="https://img.shields.io/badge/Mobile-8A2BE2"/>
-  <img src="https://img.shields.io/badge/Sound-Design-8A2BE2"/>
-</p>
-
-<p>
   <a href="https://www.linkedin.com/in/antoniobrandao/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white"/></a>
   <a href="https://calendly.com/antoniobrandao"><img src="https://img.shields.io/badge/-Schedule%20meeting-0094F5?style=flat&logo=calendly&logoColor=white"/></a>
 </p>
