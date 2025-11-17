@@ -16,9 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [https://antoniobrandao.com](https://antoniobrandao.com)
-
-<p>
-  <a href="https://www.linkedin.com/in/antoniobrandao/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white"/></a>
-  <a href="https://calendly.com/antoniobrandao"><img src="https://img.shields.io/badge/-Schedule%20meeting-0094F5?style=flat&logo=calendly&logoColor=white"/></a>
-</p>
-
+[https://www.linkedin.com/in/antoniobrandao](https://www.linkedin.com/in/antoniobrandao)
+[https://calendly.com/antoniobrandao](https://calendly.com/antoniobrandao)
